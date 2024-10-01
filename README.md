@@ -23,7 +23,7 @@
 
 ## 🌟 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Darkmoon1995&repo=your-repo-name)](https://github.com/Darkmoon1995/your-repo-name)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Darkmoon1995&repo=your-repo-name)](https://github.com/Darkmoon1995/SchoolSystem-)
 
 ## 📫 How to reach me
 
