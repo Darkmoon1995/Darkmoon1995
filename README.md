@@ -6,6 +6,7 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: I dont know what fun fact i can tell you that most be cool. so some random fact: The gaming industry is rich as fuck. and i mean bigger than music and movies:D
 
+- oh BTW i used AI. I think you must use it too :D
 <!---
 Darkmoon1995/Darkmoon1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
