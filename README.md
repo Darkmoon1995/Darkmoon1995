@@ -21,19 +21,17 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkmoon1995&show_icons=true&theme=radical)
 
-## 🌟 Featured Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Darkmoon1995&repo=your-repo-name)](https://github.com/Darkmoon1995/SchoolSystem-)
-
 ## 📫 How to reach me
 
 - 📧 Email: Dakrmoonmasih@gmail.com
 - 💼 LinkedIn: [Don't Have LinkedIn Yet.](https://github.com/Darkmoon1995/)
-- 🐦 Twitter: [@TelegramLink](https://t.me/Darkmoon19951)
+- 🐦 Telegram: [@TelegramLink](https://t.me/Darkmoon19951)
 
 ## ⚡ Fun Fact
 
-Did you know that the gaming industry is larger than the movie and music industries combined? In 2020, the global gaming market was valued at $159.3 billion, while the film industry was worth $100 billion and the music industry $20.2 billion. Pretty cool, right? 🎮🎬🎵
+- Did you know that the gaming industry is larger than the movie and music industries combined? In 2020, the global gaming market was valued at $159.3 billion, while the film industry was worth $100 billion and the music industry $20.2 billion. Pretty cool, right? 🎮🎬🎵
+
+- oh also the my readme github was generated with AI too :D
 
 ## 😄 Pronouns
 
