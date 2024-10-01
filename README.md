@@ -28,8 +28,8 @@
 ## 📫 How to reach me
 
 - 📧 Email: Dakrmoonmasih@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- 💼 LinkedIn: [Don't Have LinkedIn Yet.](https://github.com/Darkmoon1995/)
+- 🐦 Twitter: [@TelegramLink](https://t.me/Darkmoon19951)
 
 ## ⚡ Fun Fact
 
