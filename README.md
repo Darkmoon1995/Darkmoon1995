@@ -25,7 +25,7 @@
 
 - 📧 Email: Dakrmoonmasih@gmail.com
 - 💼 LinkedIn: [Don't Have LinkedIn Yet.](https://github.com/Darkmoon1995/)
-- 🐦 Telegram: [@TelegramLink](https://t.me/Darkmoon19951)
+- 🐦 Telegram: [@Darkmoon19951](https://t.me/Darkmoon19951)
 
 ## ⚡ Fun Fact
 
