@@ -5,7 +5,7 @@
 ## 🚀 About Me
 
 - 🎮 Passionate about video games
-- 💻 Currently learning ReactJS and PHP
+- 💻 Currently planning to learn Assambly
 - 🌟 Open to collaborating on any exciting projects
 - 🤖 AI enthusiast - I believe in leveraging AI to enhance productivity!
 
