@@ -7,7 +7,6 @@
 - 🎮 Passionate about video games
 - 💻 Currently planning to learn Assambly
 - 🌟 Open to collaborating on any exciting projects
-- 🤖 AI enthusiast - I believe in leveraging AI to enhance productivity!
 
 ## 🛠 Skills
 
