@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-- I LIVE VIDEO GAMES
+- I LIVE VIDEO GAMES (this isn't a typo)
 - Currently trying to setup minecraft server (idk why i want it to be optimised this badly)
 - Also trying badly to draw
 
